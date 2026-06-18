@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "cravat27",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "cravat27-nextjs", "run", "dev"],
+      "port": 3000
+    }
+  ]
+}
